@@ -18,7 +18,7 @@
 |  `Without Any Technique`       |  `87%`|
 |  `Without Stop Words`       | `87%` |
 |  `Stemming`       | `86%` |
-|  `Lemmatization`       |  |
+|  `Lemmatization`       | `87%` |
 |  `StopWords Removal+Stemming+Lemmatization`       |  |
 
 
