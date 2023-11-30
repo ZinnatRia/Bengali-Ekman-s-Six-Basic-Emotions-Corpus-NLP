@@ -8,7 +8,7 @@
 |  `Without Stop Words`       | `84%` |
 |  `Stemming`       | `85%` |
 |  `Lemmatization`       | `85%` |
-|  `StopWords Removal+Stemming+Lemmatization`       |  |
+|  `StopWordsRemoval+Stemming+Lemmatization`       |  |
 
                     
 ## Accuracy for BangaBert
@@ -19,6 +19,6 @@
 |  `Without Stop Words`       | `87%` |
 |  `Stemming`       | `86%` |
 |  `Lemmatization`       | `87%` |
-|  `StopWords Removal+Stemming+Lemmatization`       |  |
+|  `StopWordsRemoval+Stemming+Lemmatization`       |  |
 
 
