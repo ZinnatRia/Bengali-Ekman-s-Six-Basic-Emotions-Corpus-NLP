@@ -6,7 +6,7 @@
 | :--------           | :------------------------- |
 |  `Without Any Technique`       |  `86%`|
 |  `Without Stop Words`       | `84%` |
-|  `Custom Stop Words Removal`       | `84%` |
+|  `Custom Stop Words Removal`       | `87%` |
 |  `Stemming`       | `85%` |
 |  `Lemmatization`       | `85%` |
 |  `StopWordsRemoval+Stemming+Lemmatization`       |  |
