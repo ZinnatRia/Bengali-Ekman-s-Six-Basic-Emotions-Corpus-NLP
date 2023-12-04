@@ -18,7 +18,8 @@
 | :--------           | :------------------------- |
 |  `Without Any Technique`       |  `87%`|
 |  `Without Stop Words`       | `87%` |
-|  `Custom Stop Words Removal`       | `87%` |
+|  `Custom Stop Words Removal-SagorSarkerBanglaBert`       | `87%` |
+|  `Custom Stop Words Removal-BUETBanglaBert`       | `89%` |
 |  `Stemming`       | `86%` |
 |  `Lemmatization`       | `87%` |
 |  `StopWordsRemoval+Stemming+Lemmatization`       |  |
