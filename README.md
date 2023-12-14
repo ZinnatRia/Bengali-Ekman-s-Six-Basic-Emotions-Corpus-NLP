@@ -28,4 +28,14 @@
 |  `Custom StopWords Removal+Lemmatization+TF-IDF`       |  |
 
 
+## Dataset Details
+### The dataset comprises 6 distinct classes, each corresponding to a specific emotion. With 6000 rows allocated to each class, the dataset as a whole consists of a total of 36,000 rows.
 
+|  *Emotion*    | *Rows*             |
+| :--------           | :------------------------- |
+|  `Disgust`       |  `6000`|
+|  `Angry`       | `6000` |
+|  `Happy`       | `6000` |
+|  `Surprise`       | `6000` |
+|  `Fear`       | `6000` |
+|  `Sad`       | `6000` |
