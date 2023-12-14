@@ -25,7 +25,7 @@
 |  `Stemming`       | `86%` |
 |  `Lemmatization`       | `87%` |
 |  `Custom StopWords Removal+TF-IDF`       | `88%` |
-|  `Custom StopWords Removal+Lemmatization+TF-IDF`       |  |
+|  `Custom StopWords Removal+Lemmatization+TF-IDF`       | `88%` |
 
 
 ## Dataset Details
