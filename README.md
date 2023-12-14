@@ -9,7 +9,7 @@
 |  `Custom Stop Words Removal`       | `87%` |
 |  `Stemming`       | `85%` |
 |  `Lemmatization`       | `85%` |
-|  `Custom StopWords Removal+TF-IDF`       |  |
+|  `Custom StopWords Removal+TF-IDF`       | `87%` |
 |  `Custom StopWords Removal+Lemmatization+TF-IDF`       | `87%`|
 
 
