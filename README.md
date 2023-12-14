@@ -9,8 +9,8 @@
 |  `Custom Stop Words Removal`       | `87%` |
 |  `Stemming`       | `85%` |
 |  `Lemmatization`       | `85%` |
-|  `StopWordsRemoval+TF-IDF`       |  |
-|  `StopWordsRemoval+Lemmatization+TF-IDF`       |  |
+|  `Custom StopWords Removal+TF-IDF`       |  |
+|  `Custom StopWords Removal+Lemmatization+TF-IDF`       |  |
 
 
                     
@@ -24,7 +24,8 @@
 |  `Custom Stop Words Removal-BUETBanglaBert`       | `89%` |
 |  `Stemming`       | `86%` |
 |  `Lemmatization`       | `87%` |
-|  `StopWordsRemoval+TF-IDF`       |  |
-|  `StopWordsRemoval+Lemmatization+TF-IDF`       |  |
+|  `Custom StopWords Removal+TF-IDF`       |  |
+|  `Custom StopWords Removal+Lemmatization+TF-IDF`       |  |
+
 
 
