@@ -9,7 +9,9 @@
 |  `Custom Stop Words Removal`       | `87%` |
 |  `Stemming`       | `85%` |
 |  `Lemmatization`       | `85%` |
-|  `StopWordsRemoval+Stemming+Lemmatization`       |  |
+|  `StopWordsRemoval+TF-IDF`       |  |
+|  `StopWordsRemoval+Lemmatization+TF-IDF`       |  |
+
 
                     
 ## Accuracy for BangaBert
@@ -22,6 +24,7 @@
 |  `Custom Stop Words Removal-BUETBanglaBert`       | `89%` |
 |  `Stemming`       | `86%` |
 |  `Lemmatization`       | `87%` |
-|  `StopWordsRemoval+Stemming+Lemmatization`       |  |
+|  `StopWordsRemoval+TF-IDF`       |  |
+|  `StopWordsRemoval+Lemmatization+TF-IDF`       |  |
 
 
