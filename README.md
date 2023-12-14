@@ -14,7 +14,7 @@
 
 
                     
-+ Accuracy for BangaBert
+## Accuracy for BangaBert
 
 |  *BanglaBert*    | *Accuracy*             |
 | :--------           | :------------------------- |
