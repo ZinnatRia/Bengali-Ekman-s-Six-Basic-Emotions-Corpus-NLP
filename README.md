@@ -29,7 +29,7 @@
 
 
 ## Dataset Details
-### The dataset comprises 6 distinct classes, each corresponding to a specific emotion. With 6000 rows allocated to each class, the dataset as a whole consists of a total of 36,000 rows.
+#### The dataset comprises 6 distinct classes, each corresponding to a specific emotion. With 6000 rows allocated to each class, the dataset as a whole consists of a total of 36,000 rows.
 
 |  *Emotion*    | *Rows*             |
 | :--------           | :------------------------- |
